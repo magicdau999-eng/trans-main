@@ -1,0 +1,6 @@
+{
+  "name": "RPGM Lingua",
+  "description": "Ứng dụng Android PWA tích hợp Gemini AI để phân tích, dịch thuật dữ liệu game RPG Maker (data.zip) và xuất lại đúng cấu trúc gốc để chơi tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
